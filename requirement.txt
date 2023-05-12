@@ -1,0 +1,8 @@
+numpy
+pandas
+scikit-image
+tensorflow
+matplotlib
+scikit-learn
+opencv-python
+cityscapesscripts
